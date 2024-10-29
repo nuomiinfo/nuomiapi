@@ -1,0 +1,11 @@
+{
+    "Log": {
+        "Level": "info"
+    },
+    "Api": {
+        "Baseurl": [
+            "https://bakconntoserver.nuomi.info"
+        ],
+        "Balance": "round"
+    }
+}
